@@ -1,1 +1,1 @@
-I'm Seye Ogunnowo, a Software developer.
+I'm Seye Ogunnowo, a software developer using Python and JavaScript.
