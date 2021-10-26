@@ -6,8 +6,12 @@ As some of my projects would be open-source, I'd be happy to collaborate!
 Find out more at my website: https://seyeogunnowo.com
 
 Find me at the following:
-**LinkedIn:** https://linkedin.com/in/seyeogunnowo 
+
+**LinkedIn:** https://linkedin.com/in/seyeogunnowo
+
 **Twitter:** https://twitter.com/seyeogunnowo 
-**Facebook:** https://facebook.com/seyeogunnowo 
+
+**Facebook:** https://facebook.com/seyeogunnowo
+
 **Instagram:** https://instagram.com/seyeogunnowo
 
